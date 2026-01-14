@@ -29,4 +29,4 @@ In addition to our core products, we also operate:
 
 We’re a small, remote, global team. We value clear thinking, ownership, and calm execution. We prefer fewer people doing meaningful work over large teams and heavy process.
 
-Questions? Comments? Email **careers@parone.dev**.
+Questions? Comments? Email **careers@parone.com**.
