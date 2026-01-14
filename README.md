@@ -1,4 +1,4 @@
-# Working at ParOne
+# Working at ParOne, Inc
 
 Hey there 👋
 
