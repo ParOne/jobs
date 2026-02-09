@@ -6,9 +6,6 @@ If you're reading this, you're probably interested in working with **ParOne, Inc
 
 ## Open Roles
 
-- **[Video Editor](https://github.com/parone/jobs/blob/main/video-editor.md) ($80,000 - $90,000/year or contract equivalent)**  
-  If you're an experienced video editor comfortable working with both landscape and vertical video, and you want to shape the look and feel of AVA Golf's video content, this role may be a good fit.
-
 
 *(We don’t hire often. When roles are open, they’ll be listed here.)*
 
