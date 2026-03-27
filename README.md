@@ -6,8 +6,11 @@ If you're reading this, you're probably interested in working with **ParOne, Inc
 
 ## Open Roles
 
+- **[Fractional Product Direct](https://github.com/parone/jobs/blob/main/Fractional-Product-Director.md) ($150/hr)**  
+ We're looking for a senior product consultant to own requirements and client scoping — our Interactive Ad Serving Campaigns Flights, FAST Channel CMS, and Custom Video Players. Part-time 1099, ~$150/hr, fully remote.
 
-*(We don’t hire often. When roles are open, they’ll be listed here.)*
+
+<!-- *(We don’t hire often. When roles are open, they’ll be listed here.)* -->
 
 ## About ParOne
 
@@ -20,9 +23,11 @@ Our work includes:
 - Cloud infrastructure for large-scale video delivery
 
 In addition to our core products, we also operate:
-- **ParOne.dev** – an engineering and infrastructure agency working with media and sports organizations
-- **AVA Golf** – a data-intelligence game-improvement platform that turns player data into personalized video training
-- **GolfCentral.tv** – a global OTT and FAST platform for professional golf content
+- **AVA Golf, Inc** – Engineered for golfers who demand more to play better, this precision performance intelligence platform unifies their data and delivers expert coaching videos calibrated to their exact performance profiles to sharpen their games.
+- **GolfCentral.Tv** – A global golf OTT platform for golf leagues, tours and federations, turning archives and live video into revenue and audience growth.
+- **ParOne Holdings, LLC** – An investment vehicle into early-stage golf technology companies with the vision, technology and team to define the next era of the sport.
+- **ParOne Dev, LLC** – A U.S.-based custom software development agency engineering the next generation of golf technology led by full-time talent formerly with Capital One, JP Morgan and other Fortune 500 companies.
+- **ParOne App, LLC –** Enterprise-grade video infrastructure powering the world’s leading golf brands that includes a robust suite of streaming, player and analytics technology built for the scale and demands of professional golf and golf media.
 
 We’re a small, remote, global team. We value clear thinking, ownership, and calm execution. We prefer fewer people doing meaningful work over large teams and heavy process.
 
