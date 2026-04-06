@@ -1,7 +1,7 @@
 # Director of Product Marketing & Partnerships
 > Full-Time · Remote
 
-ParOne is hiring a **Director of Product Marketing & Partnerships** to own how AVA Golf goes to market — from positioning and messaging to media, press, and partnerships.
+ParOne is hiring a **Director of Product Marketing & Partnerships** to own how AVA Golf goes to market from positioning and messaging to media, press, and partnerships.
 
 This is a senior individual-contributor role with real ownership. You’ll define how we talk about AVA Golf, how we show up in the market, and how we build revenue-driving partnerships as we move through launch and into early growth.
 
