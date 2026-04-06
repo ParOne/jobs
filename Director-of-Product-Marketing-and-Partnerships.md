@@ -1,7 +1,7 @@
 # Director of Product Marketing & Partnerships, AVA Golf
-> ~$108k + 2% fully diluted equity or;
-> ~$120k + 1% fully diluted equity or;
-> ~$140k + 0% equity
+> ~$108k + 2% fully diluted equity or;<br />
+> ~$120k + 1% fully diluted equity or;<br />
+> ~$140k + 0% equity<br />
 > Full-Time · Remote
 
 ParOne is hiring a **Director of Product Marketing & Partnerships** to own how AVA Golf goes to market from positioning and messaging to media, press, and partnerships.
