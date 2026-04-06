@@ -1,4 +1,4 @@
-# Director of Product Marketing & Partnerships
+# Director of Product Marketing & Partnerships, AVA Golf
 > ~$108k + 2% fully diluted equity or;
 > ~$120k + 1% fully diluted equity or;
 > ~$140k + 0% equity
