@@ -9,9 +9,6 @@ If you're reading this, you're probably interested in working with **ParOne, Inc
 - **[Fractional Product Director](https://github.com/parone/jobs/blob/main/Fractional-Product-Director.md) ($150/hr)**  
  We're looking for a senior product consultant to own requirements and client scoping — our Interactive Ad Serving Campaigns Flights, FAST Channel CMS, and Custom Video Players. Part-time 1099, ~$150/hr, fully remote.
 
-- **[Director of Product Marketing, AVA Golf](https://github.com/ParOne/jobs/blob/main/Director-of-Product-Marketing-and-Partnerships.md) (~$140k/yr)**  
- We're looking for a Director of Product Marketing & Partnerships to own how AVA Golf goes to market from positioning and messaging to media, press, and partnerships.
-
 
 <!-- *(We don’t hire often. When roles are open, they’ll be listed here.)* -->
 
